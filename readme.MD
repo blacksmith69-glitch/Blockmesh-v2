@@ -16,7 +16,9 @@ git clone https://github.com/blacksmith69-glitch/Blockmesh-v2.git
 ```
 npm install axios
 ```
-
+```
+npm install colors
+```
 ```
 cd Blockmesh-v2
 ```
