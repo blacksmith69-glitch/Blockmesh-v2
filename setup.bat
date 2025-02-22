@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    BlockMesh BOT SETUP AND RUN SCRIPT by @MeoMunDep
+echo    BlockMesh BOT SETUP AND RUN SCRIPT by @CryptoWithAryanOG
 echo =================================================================
 echo.
 echo Current directory: %CD%
