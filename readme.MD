@@ -40,6 +40,9 @@ cd Blockmesh-v2
 
 ### 2. `emails.txt` 🗂️ - Your emails address.
 
+```
+nano emails.txt
+```
 ```txt
 xxx@gmail.com
 xxx@gmail.com
@@ -48,6 +51,9 @@ xxx@gmail.com
 
 ### 2.1. `passwordss.txt` 🗂️ - Your passwords's emails.
 
+```
+nano passwordss.txt
+```
 ```txt
 xxx...
 xxx...
@@ -63,6 +69,10 @@ abc...xyz
 ```
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
+
+```
+nano proxies.txt
+```
 
 ```txt
 http://user:password@host:port
