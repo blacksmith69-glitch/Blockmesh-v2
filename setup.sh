@@ -52,7 +52,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    BlockMesh BOT SETUP AND RUN SCRIPT by @MeoMunDep"
+    echo "    BlockMesh BOT SETUP AND RUN SCRIPT by @CryptoWithAryan"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
