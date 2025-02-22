@@ -7,6 +7,11 @@
    ```
    npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid
    ```
+## installation 
+
+```
+git clone https://github.com/blacksmith69-glitch/Blockmesh-v2.git
+```
 
 2. **Prepare Configuration Files:**
 
