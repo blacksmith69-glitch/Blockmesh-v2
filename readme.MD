@@ -13,6 +13,11 @@
 git clone https://github.com/blacksmith69-glitch/Blockmesh-v2.git
 ```
 
+```
+cd Blockmesh-v2
+```
+
+
 2. **Prepare Configuration Files:**
 
    > You'll need to set up a few configuration files for the bot to work properly.
