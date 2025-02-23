@@ -2,7 +2,11 @@
 
 1. **Install Dependencies and Modules:**
 
-   ```
+```
+pkg install nodejs
+``` 
+
+```
    npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid
    ```
 ## installation 
@@ -10,7 +14,12 @@
 ```
 git clone https://github.com/blacksmith69-glitch/Blockmesh-v2.git
 ```
+```
+cd Blockmesh-v2
+```
+```
 
+```
 ```
 npm install axios
 ```
