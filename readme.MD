@@ -21,9 +21,6 @@ git clone https://github.com/blacksmith69-glitch/Blockmesh-v2.git
 cd Blockmesh-v2
 ```
 ```
-
-```
-```
 npm install axios
 ```
 ```
@@ -53,10 +50,12 @@ npm install https-proxy-agent
 ```
 cd Blockmesh-v2 
 ```
+### ***script run*** ###
+
 ```
 node meomundep.js
 ```
-
+### ***Before running script add this details*** ###
 2. **Prepare Configuration Files:**
 
    > You'll need to set up a few configuration files for the bot to work properly.
