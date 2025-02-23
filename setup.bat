@@ -15,9 +15,11 @@ if exist node_modules (
 cls
 echo =================================================================
 echo    BlockMesh BOT SETUP AND RUN SCRIPT by @cryptoWithAryan
+echo                     TG :- @cryptowitharyanog
 echo =================================================================
 echo.
-echo Current directory: %CD%
+echo Current directory:
+echo %CD%
 echo Parent node_modules: %~dp0..\node_modules
 echo.
 echo 1. Install/Update Node.js Dependencies
