@@ -51,13 +51,10 @@ npm install socks-proxy-agent
 npm install https-proxy-agent
 ```
 ```
-cd Blockmesh
+cd Blockmesh-v2 
 ```
 ```
-cd blockmesh-main/blockmesh
-```
-```
-node bot
+node meomundep.js
 ```
 
 2. **Prepare Configuration Files:**
