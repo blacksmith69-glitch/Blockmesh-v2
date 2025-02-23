@@ -1,5 +1,5 @@
 @echo off
-title BlockMesh Bot by @MeoMunDep
+title BlockMesh Bot by @CryptoWithAryanog
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    BlockMesh BOT SETUP AND RUN SCRIPT by @MeoMunDep
+echo    BlockMesh BOT SETUP AND RUN SCRIPT by @cryptoWithAryan
 echo =================================================================
 echo.
 echo Current directory: %CD%
